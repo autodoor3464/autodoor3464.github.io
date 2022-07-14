@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://autodoor3464.github.io/"
+baseurl: ""
+url: "https://autodoor3464.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
